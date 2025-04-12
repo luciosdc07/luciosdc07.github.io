@@ -25,7 +25,11 @@ h1{
   font-size: 55px;
   font-weight: 300;
   text-align: center;
+<<<<<<< HEAD
   color:rgb(255, 255, 255);
+=======
+  color:rgb(202, 146, 42);
+>>>>>>> 6432dd852e8ae1b99b0a66173336c34c0e4ad36e
 }
 
 .indice{
@@ -74,13 +78,20 @@ img{
 }
 
 h2{
+<<<<<<< HEAD
   display: inline-block;
+=======
+  padding-top: 300px;
+>>>>>>> 6432dd852e8ae1b99b0a66173336c34c0e4ad36e
   font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   font-size: 70px;
   font-weight: 300;
   color:rgb(202, 146, 42);
   margin:10px;
+<<<<<<< HEAD
   margin-top: 300px;
+=======
+>>>>>>> 6432dd852e8ae1b99b0a66173336c34c0e4ad36e
 }
 
 .despro {
@@ -99,7 +110,12 @@ h2{
   max-width: 100%;
   margin:10px;
   float: right;
+<<<<<<< HEAD
   margin-top: 200px;
+=======
+  top: -80px;
+  right:20px;
+>>>>>>> 6432dd852e8ae1b99b0a66173336c34c0e4ad36e
 }
 
 @media (max-width: 768px) {
