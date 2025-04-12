@@ -86,6 +86,7 @@ h2{
   color: rgb(255, 255, 255);
   overflow: hidden; 
   flex-wrap: wrap;
+  margin:5px;
 }
 
 #foto-desc {
