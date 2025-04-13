@@ -22,10 +22,11 @@ body{
 
 h1{
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    font-size: 55px;
+    font-size: 75px;
     font-weight: 300;
     text-align: center;
     color:rgb(202, 146, 42);
+    text-shadow: 2px 2px black;
 }
 
 .indice{
@@ -47,6 +48,7 @@ h1{
   width: 500px;
   justify-content: center;
   height: auto;
+  text-shadow: 2px 2px 4px #00000079;
 }
 
 .indice li{
@@ -79,6 +81,7 @@ img{
     font-size: 70px;
     font-weight: 300;
     color:rgb(202, 146, 42);
+    text-shadow: 2px 2px black;
   }
   .despro {
     font-size: 40px;
@@ -130,6 +133,7 @@ h3{
   text-align: center;
   font-weight: 300;
   color:rgb(255, 255, 255);
+  text-shadow: 2px 2px black;
 }
 
 button{
@@ -145,4 +149,18 @@ button{
   width: 72x;
   height: 72px;
   text-decoration: none;
+}
+h4{
+  font-family:cursive;
+  font-size: 60px;
+  font-style: oblique;
+  text-align: center;
+  font-weight: 300;
+  color:rgba(241, 174, 48, 0.808);
+  text-shadow: 2px 2px 4px #000000;
+  opacity:0.5;
+}
+h4:hover{
+  opacity:1.0;
+  cursor:default;
 }
