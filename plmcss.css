@@ -4,6 +4,7 @@ body{
   background: 
     linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6));
   background-size: cover;
+  cursor: default;
 }
 
 .topnav a {
@@ -162,5 +163,4 @@ h4{
 }
 h4:hover{
   opacity:1.0;
-  cursor:default;
 }
