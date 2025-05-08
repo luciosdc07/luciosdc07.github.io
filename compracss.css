@@ -1,4 +1,33 @@
-h1{
+body{
+    margin: 0;
+    padding: 0;
+    background-size: cover;
+    cursor: default;
+  }
+  
+  body::before {
+    content: "";
+    position: fixed;
+    top: 0; left: 0; right: 0; bottom: 0;
+    z-index: -1;
+    background: linear-gradient(135deg, #0f2027 0%, #203a43 50%, #2c5364 100%);
+    background-size: cover;
+  }
+
+  .topnav a {
+    height: max-content;
+    color: #ffffff;
+    text-align: center;
+    padding: 14px 46px;
+    text-decoration: none;
+    font-size: 29px;
+  }
+  
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+    h1{
     font-size: 40px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
