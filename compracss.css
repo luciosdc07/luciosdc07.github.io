@@ -1,17 +1,9 @@
 body{
     margin: 0;
     padding: 0;
+    background-color: #353434c9;
     background-size: cover;
     cursor: default;
-  }
-  
-  body::before {
-    content: "";
-    position: fixed;
-    top: 0; left: 0; right: 0; bottom: 0;
-    z-index: -1;
-    background: linear-gradient(135deg, #0f2027 0%, #203a43 50%, #2c5364 100%);
-    background-size: cover;
   }
 
   .topnav a {
