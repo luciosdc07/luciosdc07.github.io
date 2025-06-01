@@ -85,7 +85,7 @@ img{
   }
   .despro {
     font-size: 40px;
-    color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
     overflow: hidden; 
     flex-wrap: wrap;
     margin-left: 500px;
@@ -114,17 +114,17 @@ img{
 
 .features{
   font-size: 40px;
-  color:rgb(255, 255, 255);
+  color:rgb(0, 0, 0);
 }
 
 .prezzo{
   font-size: 35px;
-  color:rgb(255, 255, 255);
+  color:rgb(0, 0, 0);
 }
 
 p{
   font-size: 45px;
-  color:rgb(255, 255, 255);
+  color:rgb(0, 0, 0);
 }
 
 h3{
@@ -132,7 +132,7 @@ h3{
   font-size: 100px;
   text-align: center;
   font-weight: 300;
-  color:rgb(255, 255, 255);
+  color:rgb(0, 0, 0);
   text-shadow: 2px 2px black;
 }
 
