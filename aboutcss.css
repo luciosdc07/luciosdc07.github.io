@@ -1,3 +1,6 @@
+body{
+    background-color: #35343434;
+}
 .topnav a {
     height: max-content;
     color: #020202;
